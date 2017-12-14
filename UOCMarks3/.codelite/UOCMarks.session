@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/home/carlos/C-Factory/UOCMarks3/UOCMarks.workspace">
+  <int Value="1" Name="m_selectedTab"/>
+  <wxString Value="/home/carlos/C-Factory/UOCMarks3/UOCMarks.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/home/carlos/C-Factory/UOCMarks3/include/data.h" Name="FileName"/>
+      <int Value="101" Name="FirstVisibleLine"/>
+      <int Value="107" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/carlos/C-Factory/UOCMarks3/src/record.c" Name="FileName"/>
+      <int Value="42" Name="FirstVisibleLine"/>
+      <int Value="53" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/carlos/C-Factory/UOCMarks3/src/students.c" Name="FileName"/>
+      <int Value="224" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/carlos/C-Factory/UOCMarks3/include/students.h" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/carlos/C-Factory/UOCMarks3/src/test.c" Name="FileName"/>
+      <int Value="829" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks">
+        <wxString Value="8:7"/>
+        <wxString Value="57:7"/>
+        <wxString Value="828:7"/>
+        <wxString Value="834:7"/>
+        <wxString Value="845:7"/>
+        <wxString Value="848:7"/>
+        <wxString Value="850:7"/>
+        <wxString Value="851:7"/>
+        <wxString Value="858:7"/>
+        <wxString Value="860:7"/>
+        <wxString Value="861:7"/>
+        <wxString Value="862:7"/>
+        <wxString Value="866:7"/>
+        <wxString Value="869:7"/>
+        <wxString Value="872:7"/>
+        <wxString Value="874:7"/>
+        <wxString Value="875:7"/>
+        <wxString Value="876:7"/>
+        <wxString Value="877:7"/>
+        <wxString Value="879:7"/>
+        <wxString Value="880:7"/>
+        <wxString Value="882:7"/>
+        <wxString Value="891:7"/>
+        <wxString Value="894:7"/>
+        <wxString Value="896:7"/>
+        <wxString Value="897:7"/>
+        <wxString Value="898:7"/>
+        <wxString Value="899:7"/>
+        <wxString Value="900:7"/>
+        <wxString Value="902:7"/>
+        <wxString Value="903:7"/>
+        <wxString Value="905:7"/>
+        <wxString Value="914:7"/>
+        <wxString Value="917:7"/>
+        <wxString Value="922:7"/>
+        <wxString Value="923:7"/>
+        <wxString Value="924:7"/>
+        <wxString Value="926:7"/>
+        <wxString Value="927:7"/>
+        <wxString Value="929:7"/>
+        <wxString Value="932:7"/>
+        <wxString Value="933:7"/>
+        <wxString Value="935:7"/>
+        <wxString Value="947:7"/>
+        <wxString Value="948:7"/>
+        <wxString Value="949:7"/>
+        <wxString Value="950:7"/>
+        <wxString Value="951:7"/>
+        <wxString Value="952:7"/>
+        <wxString Value="953:7"/>
+        <wxString Value="954:7"/>
+        <wxString Value="956:7"/>
+        <wxString Value="957:7"/>
+        <wxString Value="959:7"/>
+        <wxString Value="968:7"/>
+      </wxArrayString>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/carlos/C-Factory/UOCMarks3/include/record.h" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/carlos/C-Factory/UOCMarks3/src/queue.c" Name="FileName"/>
+      <int Value="9" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/carlos/C-Factory/UOCMarks3/include/queue.h" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/carlos/C-Factory/UOCMarks3/include/marks.h" Name="FileName"/>
+      <int Value="2" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/carlos/C-Factory/UOCMarks3/src/marks.c" Name="FileName"/>
+      <int Value="27" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/carlos/C-Factory/UOCMarks3/src/menu.c" Name="FileName"/>
+      <int Value="173" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/carlos/C-Factory/UOCMarks3/src/subjects.c" Name="FileName"/>
+      <int Value="198" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/carlos/C-Factory/UOCMarks3/include/subjects.h" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/carlos/C-Factory/UOCMarks3/src/api.c" Name="FileName"/>
+      <int Value="198" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/carlos/C-Factory/UOCMarks3/learn/main.c" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="1" Name="Count"/>
+    <SerializedObject Name="Breakpoint0">
+      <wxString Value="/home/carlos/C-Factory/UOCMarks3/src/menu.c" Name="file"/>
+      <int Value="19" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+  </SerializedObject>
+</Session>

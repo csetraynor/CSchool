@@ -1,0 +1,1 @@
+./Debug/src_main.c.o ./Debug/src_menu.c.o ./Debug/src_test.c.o ./Debug/src_queue.c.o ./Debug/src_students.c.o ./Debug/src_subjects.c.o ./Debug/src_marks.c.o ./Debug/src_record.c.o ./Debug/src_api.c.o

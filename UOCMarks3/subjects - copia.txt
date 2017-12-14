@@ -1,0 +1,4 @@
+1;AL1;4;Algebra;
+1;FP1;6;Programming;
+1;MA1;6;Maths;
+1;CM1;5;Chem;

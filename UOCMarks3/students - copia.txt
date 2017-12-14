@@ -1,0 +1,4 @@
+11111111;Pablo;pablo@uoc.edu;01/01/1990;0;0;
+22222222;Pedro;pedro@uoc.edu;01/01/1991;0;0;
+12345678;Vilma;vilma@uoc.edu;01/02/1990;1;0;
+87654321;Betty;betty@uoc.edu;01/03/1990;1;0;

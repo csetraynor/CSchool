@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UOCMarks" Database="">
+  <Project Name="UOCMarks" Path="UOCMarks.project" Active="Yes"/>
+  <Project Name="learn" Path="learn/learn.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="UOCMarks" ConfigName="Debug"/>
+      <Project Name="UOCMarks" ConfigName="Debug"/>
+      <Project Name="learn" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="UOCMarks" ConfigName="Release"/>
+      <Project Name="UOCMarks" ConfigName="Release"/>
+      <Project Name="learn" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

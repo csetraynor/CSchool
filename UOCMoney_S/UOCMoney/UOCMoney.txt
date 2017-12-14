@@ -1,0 +1,1 @@
+./Release/src_main.c.o ./Release/src_uocmoney.c.o ./Release/src_movements.c.o ./Release/src_test.c.o ./Release/src_menu.c.o ./Release/src_concepts.c.o   
